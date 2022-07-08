@@ -1,1 +1,1 @@
-# Datastream-MySQL-to-BigQuery
+# GOOGLE LEARN TO EARN SOLUTIONS BY TECHK
